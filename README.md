@@ -1,16 +1,39 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
 
-<!--
-**Josimar722/Josimar722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏽‍💻 Olá, meu nome é Josimar Pereira 😎
 
-Here are some ideas to get you started:
+Seja bem vindo(a) ao meu repositorio!
+ 
+ 
+… Sou formado em Análise e Desenvolvimento de Sistemas , adoro tecnologia e tudo o que envolve os sistemas, me formei também como Desenvolvedor Full Stack Java Júnior. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meus Skills:
+
+Java,
+Php,
+JavaScript,
+TypeScript.
+
+Angular,
+Node.js,
+Bootstrap,
+Css.
+
+
+
+### GitHub Status
+
+![josimar722 github](https://github-readme-stats.vercel.app/api?username=josimar722&show_icons=true&hide_border=true)
+
+### Linguagens topo
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josimar722)](https://github.com/josimar722github-readme-stats)
+
+ 
+ 
+## Entre em contato comigo 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Josimar722)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://linkedin.com/in/josimar-pereira-a27511170)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:josimarpsantos14@hotmail.com)
+
+- Obrigado pela visita e fiquem a vontade para melhorar meus códigos, toda contribuição é válida!! 
+
