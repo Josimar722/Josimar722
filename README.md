@@ -5,7 +5,7 @@
 Seja bem vindo(a) ao meu repositorio!
  
  
-… Sou formado em Análise e Desenvolvimento de Sistemas , adoro tecnologia e tudo o que envolve os sistemas, me formei também como Desenvolvedor Full Stack Java Júnior. E neste ano de 2023 estou me aventurando no mundo da computação em nuvem para me tornar um futuro especialista em cloud 🙏.
+… Sou formado em Análise e Desenvolvimento de Sistemas , adoro tecnologia e tudo o que envolve os sistemas, me formei também como Desenvolvedor Full Stack Java Júnior. E neste ano de 2023 estou me aventurando no mundo da computação em nuvem para me tornar um futuro especialista em cloud 🙏. 
 
 
 Meus Skills:
