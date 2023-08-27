@@ -5,7 +5,7 @@
 Seja bem vindo(a) ao meu repositorio!
  
  
-… Sou formado em Análise e Desenvolvimento de Sistemas , adoro tecnologia e tudo o que envolve os sistemas, me formei também como Desenvolvedor Full Stack Java Júnior. E neste ano de 2023 estou me aventurando no mundo da computação em nuvem para me tornar um futuro especialista ![image](https://github.com/Josimar722/Josimar722/assets/70701931/13871744-09f3-48b0-83d2-383e6a60b7dd)
+… Sou formado em Análise e Desenvolvimento de Sistemas , adoro tecnologia e tudo o que envolve os sistemas, me formei também como Desenvolvedor Full Stack Java Júnior. E neste ano de 2023 estou me aventurando no mundo da computação em nuvem para me tornar um futuro especialista 🙏
 
 
 Meus Skills:
