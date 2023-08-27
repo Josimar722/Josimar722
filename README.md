@@ -10,8 +10,6 @@ Seja bem vindo(a) ao meu repositorio!
 Meus Skills:
 
 Java,
-Php,
-JavaScript,
 TypeScript.
 
 Angular,
